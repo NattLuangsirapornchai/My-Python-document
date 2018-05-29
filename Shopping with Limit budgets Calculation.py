@@ -6,7 +6,7 @@ class Item :
         self.desire = desire
 
 import sys
-print("Shopping with Limit budgets Calculation :")
+print("-------Shopping with Limit Budgets Calculation-------")
 try :
     budget = int(input("Enter your budgets : ").strip())
     n = int(input("Enter the amount of items you want : ").strip())
